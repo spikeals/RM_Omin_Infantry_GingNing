@@ -1,0 +1,10 @@
+/MDK-ARM/ChassisV2_Manual/
+/MDK-ARM/.vscode/
+/MDK-ARM/*.log
+/MDK-ARM/*.lst
+/MDK-ARM/*.scvd
+/MDK-ARM/*.uvoptx
+/MDK-ARM/*.uvguix.*
+
+Thumbs.db
+.DS_Store
